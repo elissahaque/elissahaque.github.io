@@ -106,6 +106,8 @@ img {
     text-decoration: none;
     color: inherit;
     text-align: center;
+    align-items: center;
+    justify-content: center;
 }
 
 .button, .external-link {
