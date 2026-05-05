@@ -183,6 +183,8 @@ img {
     text-align: left;
     flex-direction: column;
     padding: 0 .6em;
+    justify-content: center;
+    position: relative;
 }
 
 .description > p {
